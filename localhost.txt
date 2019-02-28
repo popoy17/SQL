@@ -1,0 +1,9 @@
+tbl_sql.php?db=db_student&table=tbl_employee
+
+INSERT INTO `tbl_employee` (`emp_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `datetime_created`) VALUES ('127665', 'Johan', 'Arthur', 'Programmer', '28', '15000', '2019-02-27 00:00:00'), ('231232323', 'Jonie', 'Weber', 'Secretary', '28', '19500', '2019-02-27 00:00:00'), ('234243', 'Potsy', 'Weber', 'Programmer', '32', '26881', '2019-02-27 00:00:00'), ('3154587', 'James', 'Smith', 'Mr.', '32', '32000', '2019-02-27 00:00:00'), ('315493', 'Mang', 'Juan', 'Manager', '45', '300000', '2019-02-27 00:00:00'), ('4235324', 'Paul', 'Arizala', 'CEO', '17', '100000000', '2019-02-27 00:00:00'), ('5754454', 'Anthony', 'Swith', 'Mr.', '30', '25000', '2019-02-27 00:00:00'), ('7374733', 'Bernadette', 'Ordornez', 'Secretary', '16', '230000', '2019-02-27 00:00:00')
+
+SELECT * FROM `tbl_employee`
+
+
+
+
