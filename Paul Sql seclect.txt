@@ -1,0 +1,13 @@
+Paul Vincent Arizala
+
+
+
+SELECT * FROM `tbl_employee`
+
+SELECT * FROM `tbl_employee` WHERE `firstname` LIKE 'j%'
+
+SELECT * FROM `tbl_employee` WHERE `Firstname` like 'b%'
+
+SELECT * FROM `tbl_employee` WHERE `firstname` like 'j%' order by `firstname` ASC
+
+SELECT * FROM `tbl_employee` WHERE `firstname`LIKE 'j%' order by `firstname` DESC
